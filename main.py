@@ -8,7 +8,7 @@ BOT_TOKEN = "8234835598:AAEN3fVmhP7PuYIczq8fVDuxhayiMsIItcQ"
 OWNER_ID = 7113972959  # apna id
 
 # 👇 group id yaha daal (important for private trigger)
-GROUP_ID = -1003625669091 
+GROUP_ID = -1003421586593
 
 app = Client("banallbot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
