@@ -2,10 +2,10 @@ import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-API_ID = int("YOUR_API_ID")
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-OWNER_ID = 123456789  # apna telegram user id
+API_ID = int("24168862")
+API_HASH = "916a9424dd1e58ab7955001ccc0172b3"
+BOT_TOKEN = "8234835598:AAEN3fVmhP7PuYIczq8fVDuxhayiMsIItcQ"
+OWNER_ID = 7113972959 # apna telegram user id
 
 app = Client("banallbot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
