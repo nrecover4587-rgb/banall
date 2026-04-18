@@ -2,7 +2,7 @@ import asyncio
 from pyrogram import Client, filters
 
 API_ID = int("24168862")
-API_HASH = "916a9424dd1e58ab7955001ccc0172b3")
+API_HASH = "916a9424dd1e58ab7955001ccc0172b3"
 BOT_TOKEN = "8234835598:AAEN3fVmhP7PuYIczq8fVDuxhayiMsIItcQ"
 OWNER_ID = 7113972959
 
